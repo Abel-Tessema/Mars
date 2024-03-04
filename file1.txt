@@ -1,1 +1,1 @@
-Password changed.
+Logout successful.
